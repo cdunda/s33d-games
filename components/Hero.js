@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 const HeroWrapper = styled.div`
-  background-image: url('/images/Game World Illustration.svg');
+  background-image: url('/images/Ai Generated Nature Creature.jpg');
   background-size: cover;
   background-position: center;
   height: 80vh;
