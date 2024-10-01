@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 const HeroWrapper = styled.div`
-  background-image: url('/images/hero-background.jpg');
+  background-image: url('/images/Game World Illustration.svg');
   background-size: cover;
   background-position: center;
   height: 80vh;

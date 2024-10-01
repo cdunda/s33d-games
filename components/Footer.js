@@ -29,13 +29,13 @@ export default function Footer() {
       <Copyright>&copy; 2023 s33d Games</Copyright>
       <SocialIcons>
         <IconWrapper href="https://twitter.com/s33dgames" target="_blank" rel="noopener noreferrer">
-          <Image src="/images/twitter-icon.png" alt="Twitter" width={24} height={24} />
+          <Image src="/images/Video Game Night.svg" alt="Twitter" width={24} height={24} />
         </IconWrapper>
         <IconWrapper href="https://facebook.com/s33dgames" target="_blank" rel="noopener noreferrer">
-          <Image src="/images/facebook-icon.png" alt="Facebook" width={24} height={24} />
+          <Image src="/images/Gaming Recreation.svg" alt="Facebook" width={24} height={24} />
         </IconWrapper>
         <IconWrapper href="https://instagram.com/s33dgames" target="_blank" rel="noopener noreferrer">
-          <Image src="/images/instagram-icon.png" alt="Instagram" width={24} height={24} />
+          <Image src="/images/Playing Cards.svg" alt="Instagram" width={24} height={24} />
         </IconWrapper>
       </SocialIcons>
     </FooterWrapper>

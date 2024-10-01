@@ -18,7 +18,7 @@ export default function Header() {
   return (
     <HeaderWrapper>
       <LogoWrapper>
-        <Image src="/images/s33d-logo.png" alt="s33d Games Logo" width={150} height={50} layout="responsive" />
+        <Image src="/images/Ninja e-52-b.svg" alt="s33d Games Logo" width={150} height={50} layout="responsive" />
       </LogoWrapper>
     </HeaderWrapper>
   )
