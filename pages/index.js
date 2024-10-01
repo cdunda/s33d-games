@@ -8,9 +8,9 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>s33d Games - Where Games Grow from Ideas</title>
-        <meta name="description" content="s33d Games - Where games grow from ideas. Contact us to bring your game concepts to life." />
-        <meta property="og:title" content="s33d Games - Where Games Grow from Ideas" />
+        <title>s33d Games - Where Games Grow</title>
+        <meta name="description" content="s33d Games - Where games grow. Contact us to bring your game concepts to life." />
+        <meta property="og:title" content="s33d Games - Where Games Grow" />
         <meta property="og:description" content="Contact s33d Games to bring your game concepts to life" />
         <meta property="og:image" content="/images/og-image.jpg" />
         <meta property="og:url" content="https://s33d.io" />

@@ -20,7 +20,6 @@ export default function Contact() {
     <ContactWrapper>
       <ContactTitle>Contact Us</ContactTitle>
       <ContactInfo>Email: contact@s33d.io</ContactInfo>
-      <ContactInfo>Phone: +1 (555) 123-4567</ContactInfo>
       {/* Add social media icons here */}
     </ContactWrapper>
   )
