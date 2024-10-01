@@ -27,7 +27,7 @@ const HeroSubtitle = styled.p`
 export default function Hero() {
   return (
     <HeroWrapper>
-      <HeroTitle>Where Games Grow from Ideas</HeroTitle>
+      <HeroTitle>Where Games Grow</HeroTitle>
       <HeroSubtitle>Bringing your game concepts to life with innovative technology and creative expertise</HeroSubtitle>
     </HeroWrapper>
   )
