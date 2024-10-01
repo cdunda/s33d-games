@@ -1,12 +1,3 @@
-import styled from 'styled-components'
-
-const FooterWrapper = styled.footer`
-  background-color: #000000;
-  color: #FFFFFF;
-  padding: 1rem;
-  text-align: center;
-`
-
 import Image from 'next/image';
 import styled from 'styled-components';
 

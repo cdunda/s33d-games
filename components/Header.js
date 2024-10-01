@@ -1,15 +1,3 @@
-import styled from 'styled-components'
-
-const HeaderWrapper = styled.header`
-  background-color: #121212;
-  padding: 1rem;
-`
-
-const Logo = styled.h1`
-  color: #32CD32;
-  font-family: 'Poppins', sans-serif;
-`
-
 import Image from 'next/image';
 import styled from 'styled-components';
 
