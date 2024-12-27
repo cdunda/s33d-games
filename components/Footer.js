@@ -26,7 +26,7 @@ const IconWrapper = styled.a`
 export default function Footer() {
   return (
     <FooterWrapper>
-      <Copyright>&copy; 2023 s33d Games</Copyright>
+      <Copyright>&copy; 2024 s33d Games</Copyright>
       <SocialIcons>
         <IconWrapper href="https://twitter.com/s33dgames" target="_blank" rel="noopener noreferrer">
           <Image src="/images/Video Game Night.svg" alt="Twitter" width={24} height={24} />
